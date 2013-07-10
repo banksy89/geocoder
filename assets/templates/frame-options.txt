@@ -1,0 +1,6 @@
+<label>Pick a frame colour</label>
+<ul class="frame_colours" class="js-frame-types">
+	{{#options}}
+		<li><img src="{{directory}}_admin/assets/uploads/images/{{image}}" id="frame-{{id}}" alt="{{title}}" class="js-frame-colour" data-id="{{id}}" data-price="{{price}}" /></li>
+	{{/options}}
+</ul>

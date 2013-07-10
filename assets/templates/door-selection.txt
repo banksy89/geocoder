@@ -1,0 +1,13 @@
+{{#doors}}
+	<li data-door-id="{{door_id}}" class="js-select-door">
+		<div class="media">
+			<div class="image-holder-left">
+				<img src="{{directory}}assets/images/retina/minialist.png" class="img minimalist" alt="{{name}}" />
+			</div>
+			<div class="bd">
+				<h2>{{name}}</h2>
+				<p>from £{{price}}</p>
+			</div>
+		</div>
+	</li>
+{{/doors}}

@@ -1,0 +1,5 @@
+{{#panels}}
+	<li class="panels">
+		<img src="{{directory}}assets/images/default_panel.png" class="shaker_panel_colour js-colour-pop" />
+	</li>
+{{/panels}}

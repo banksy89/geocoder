@@ -1,0 +1,3 @@
+{{#wall_liners}}
+	<li><img src="{{directory}}_admin/assets/uploads/images/{{image}}" alt="{{name}}" class="js-wall-liner" data-price="{{price}}" data-id="{{id}}" /></li>
+{{/wall_liners}}
