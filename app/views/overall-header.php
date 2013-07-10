@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta name="author" content="Storm Creative" />
 
-        <title>Cosmos - <?php echo $title; ?></title>
+        <title>Geocoder.</title>
         <meta name="keywords" content="<?php echo $meta_keywords; ?>">
         <meta name="description" content="<?php echo $meta_desc; ?>">
 
