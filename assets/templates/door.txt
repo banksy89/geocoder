@@ -1,9 +1,0 @@
-{{#doors}}
-	<li class="two_door three_door four_door five_door js-frame">
-		<ul class="panels{{section_class}}">
-			{{#sections}}
-				<li class="js-colour-pop"></li>
-			{{/sections}}
-		</ul>
-	</li>
-{{/doors}}

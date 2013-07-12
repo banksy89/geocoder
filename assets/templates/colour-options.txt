@@ -1,6 +1,0 @@
-<p id="js-close-popup">close [ x ]</p>
-<ul class="colours">
-	{{#options}}
-		<li><img src="{{directory}}_admin/assets/uploads/images/{{image}}" class="js-door-colour-change" data-price="{{price}}" data-id="{{id}}" /></li>
-	{{/options}}
-</ul>

@@ -1,1 +1,0 @@
-CREATE TABLE `pegisis_image` (`id` int(11) PRIMARY auto_increment,`imgname` varchar(255)  ,`create_date` timestamp  )
